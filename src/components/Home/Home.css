@@ -1,0 +1,18 @@
+.table{
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.extra-color{
+    color: steelblue;
+}
+.extra-spacing{
+    margin-left: 10px;
+}
+.text-spacing{
+    padding-left: 30px;
+}
+.background-color{
+    background-color: #DADADA;
+    border-radius: 5px;
+    margin: 0 20px;
+}
